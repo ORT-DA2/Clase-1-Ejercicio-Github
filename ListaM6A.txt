@@ -1,4 +1,4 @@
-Caetano Rodríguez, César Agustín (151997) -> Usuario Github: _____			
+﻿Caetano Rodríguez, César Agustín (151997) -> Usuario Github: _____			
 Cayrus Urrutia, Joaquín Eduardo (168291) -> Usuario Github: _____
 Gario Francese, Franco Agustín (195469)  -> Usuario Github: _____		
 Giglio Coitinho, Matías Andrés (166612) -> Usuario Github: _____
@@ -16,6 +16,6 @@ Puricelli Ronchetti, Ismael Elbio (187086) -> Usuario Github: _____
 Repetto Ferrúa, Guillermo  (188864)   -> Usuario Github: _____			
 Rodriguez Rodriguez, Matias  (196299)	 -> Usuario Github: _____			
 Rodríguez Sappía, Juan Carlos (171983)  -> Usuario Github: _____	
-Rodríguez Scelza, Alvaro Andrés (181577) -> Usuario Github: _____		
+Rodríguez Scelza, Alvaro Andrés (181577) -> Usuario Github: Loaderon		
 Sanchez Lueiro, Fausto Daniel (187787) -> Usuario Github: _____			
 Sapelli Ferrés, María Agustina (172140) -> Usuario Github: _____
