@@ -1,4 +1,4 @@
-﻿Arsuaga Conde, Rodrigo  (193006)  -> Usuario Github: _____		
+Arsuaga Conde, Rodrigo  (193006)  -> Usuario Github: _____		
 Bañales Casarone, María Pía (187122) -> Usuario Github: _____	
 Baronio Cristiani, Lucas  (187318)  -> Usuario Github: lucasbaronio			
 Brande Rozenblum, Alan  (195873) -> Usuario Github: _____			
@@ -23,4 +23,4 @@ Ruiz Cassarino, Federico  (193000)  -> Usuario Github: _____
 Sarni Cornes, Lucía  (186992)	 -> Usuario Github: lsarni			
 Silberstein Brenner, Federico  (195387)  -> Usuario Github: _____	
 Viroga Lucio, Facundo  (191058)  -> Usuario Github: _____			
-Zuluaga González, Diego Ignacio (173642)  -> Usuario Github: _____
+Zuluaga González, Diego Ignacio (173642)  -> Usuario Github: Diego-Zulu
