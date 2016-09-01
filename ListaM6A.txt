@@ -1,4 +1,4 @@
-Caetano Rodríguez, César Agustín (151997) -> Usuario Github: _____			
+﻿Caetano Rodríguez, César Agustín (151997) -> Usuario Github: _____			
 Cayrus Urrutia, Joaquín Eduardo (168291) -> Usuario Github: joaquincayrus
 Gario Francese, Franco Agustín (195469)  -> Usuario Github: fgario		
 Giglio Coitinho, Matías Andrés (166612) -> Usuario Github: _____
@@ -10,7 +10,7 @@ Harretche Garófalo, José Ignacio (184067)  -> Usuario Github: _____
 Michelini Jorge, Martín Zelmar (194583)  -> Usuario Github: tincho96
 Moure Alassio, Ximena Graciana (175660) -> Usuario Github: ___ximemou__		
 Musetti Maestro, Martin  (187094) -> Usuario Github: _____				
-Papa Rodríguez, Gianfranco  (195512) -> Usuario Github: _____
+Papa Rodríguez, Gianfranco  (195512) -> Usuario Github: gianpapa
 Pastorini Rovan, Mauricio  (190388) -> Usuario Github: _____				
 Puricelli Ronchetti, Ismael Elbio (187086) -> Usuario Github: ismaelpuricelli
 Repetto Ferrúa, Guillermo  (188864)   -> Usuario Github: _____			
