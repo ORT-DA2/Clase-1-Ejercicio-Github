@@ -1,4 +1,4 @@
-Arsuaga Conde, Rodrigo  (193006)  -> Usuario Github: _____		
+﻿Arsuaga Conde, Rodrigo  (193006)  -> Usuario Github: _____		
 Bañales Casarone, María Pía (187122) -> Usuario Github: _____	
 Baronio Cristiani, Lucas  (187318)  -> Usuario Github: lucasbaronio			
 Brande Rozenblum, Alan  (195873) -> Usuario Github: _____			
@@ -8,7 +8,7 @@ Campiglia Martinelli, María Inés (188462)  -> Usuario Github: _____
 Esperón Villar, Leticia  (190614)  -> Usuario Github: _____		
 Fernández Gómez Platero, María Inés (186503)	 -> Usuario Github: _____	
 Ferrari Fugardo, Bruno Nicolás (167709)  -> Usuario Github: FerrariBruno			
-Fierro Di Lorenzo, Nicolás Braulio (183228)  -> Usuario Github: _____
+Fierro Di Lorenzo, Nicolás Braulio (183228)  -> Usuario Github: nicofierro94
 Kleiman Socolovsky, Yani  (195417)   -> Usuario Github: _____	
 Lax Amaya, Victoria  (192477)   -> Usuario Github: _____
 Lempert Hecht, Javier  (195582)   -> Usuario Github: javilemp			
