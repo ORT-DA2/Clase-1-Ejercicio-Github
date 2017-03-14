@@ -5,7 +5,7 @@
 Cabrera García, Federico (206062) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Cáceres Smitd, Federico Andrés (159520) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Chacón Levin, Kevin Mathias (190421) -> Usuario Github: TU_NOMBRE_DE_USUARIO
-Curzio Israel, Constanza (178606) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Curzio Israel, Constanza (178606) -> Usuario Github: ConstanzaCurzio
 De Marco de Avila, Rafael Omar (184196) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Donadío Aprile, Gastón (192203) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Forestier Avondet, Mateo (198157) -> Usuario Github: TU_NOMBRE_DE_USUARIO
@@ -15,7 +15,7 @@ Grünwaldt Cerruti, Matías (187636) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Haskel Socolovsky, Andrés (177976) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Hernández Rodríguez, Nicolás Alexis (198765) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Linares Greising, Gonzalo Javier (191873) -> Usuario Github: TU_NOMBRE_DE_USUARIO
-Marchisio Napoleone, Santiago (187871) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Marchisio Napoleone, Santiago (187871) -> Usuario Github: marqui
 Musetti Maestro, Martin (187094) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Oppenheimer Ras, Martin (195669) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Orrego Torres, Ruben Andrés (189332) -> Usuario Github: TU_NOMBRE_DE_USUARIO
