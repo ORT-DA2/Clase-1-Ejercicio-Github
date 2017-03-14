@@ -1,5 +1,5 @@
 # Ejercicio GitHub Matutino
-Ejercicio simple de GitHub para los grupos matutinos.
+Ejercicio simple de GitHub para el grupo N6A 2017 (Marzo)
 
 La idea es poder trabajar sobre un repositorio remoto, a modo de puesta en práctica de los conceptos de Git vistos en clase.
 
