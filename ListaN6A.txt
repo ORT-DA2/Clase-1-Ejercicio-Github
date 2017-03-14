@@ -21,7 +21,7 @@ Oppenheimer Ras, Martin (195669) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Orrego Torres, Ruben Andrés (189332) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Orsi Larrieux, Florencia (196397) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Rath Fernández, Andrés Ramón (177240) -> Usuario Github: TU_NOMBRE_DE_USUARIO 
-Rodríguez Giuliani, Federico Agustín (194412) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Rodríguez Giuliani, Federico Agustín (194412) -> Usuario Github: agurz
 Sanguinet Rodríguez, Pablo Fabián (156421) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Sapelli Ferrés, María Agustina (172140) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Seoane García, Verónica (172103) -> Usuario Github: TU_NOMBRE_DE_USUARIO
