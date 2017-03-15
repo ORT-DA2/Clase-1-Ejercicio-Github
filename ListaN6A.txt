@@ -13,7 +13,7 @@ Gnocchi Caches, Emiliano (176640) -> Usuario Github: deonnar
 González Mouriño, Mariana (156143) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Grünwaldt Cerruti, Matías (187636) -> Usuario Github: grunwaldt
 Haskel Socolovsky, Andrés (177976) -> Usuario Github: TU_NOMBRE_DE_USUARIO
-Hernández Rodríguez, Nicolás Alexis (198765) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Hernández Rodríguez, Nicolás Alexis (198765) -> Usuario Github: nicoache1
 Linares Greising, Gonzalo Javier (191873) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Marchisio Napoleone, Santiago (187871) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Musetti Maestro, Martin (187094) -> Usuario Github: martinmusetti
