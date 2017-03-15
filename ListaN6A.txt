@@ -1,4 +1,4 @@
-﻿Piffaretti Gabriel (-----) -> Usuario Github: piffarettig
+Piffaretti Gabriel (-----) -> Usuario Github: piffarettig
 
 
 
@@ -11,12 +11,12 @@ Donadío Aprile, Gastón (192203) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Forestier Avondet, Mateo (198157) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Gnocchi Caches, Emiliano (176640) -> Usuario Github: deonnar
 González Mouriño, Mariana (156143) -> Usuario Github: TU_NOMBRE_DE_USUARIO
-Grünwaldt Cerruti, Matías (187636) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Grünwaldt Cerruti, Matías (187636) -> Usuario Github: grunwaldt
 Haskel Socolovsky, Andrés (177976) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Hernández Rodríguez, Nicolás Alexis (198765) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Linares Greising, Gonzalo Javier (191873) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Marchisio Napoleone, Santiago (187871) -> Usuario Github: TU_NOMBRE_DE_USUARIO
-Musetti Maestro, Martin (187094) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Musetti Maestro, Martin (187094) -> Usuario Github: martinmusetti
 Oppenheimer Ras, Martin (195669) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Orrego Torres, Ruben Andrés (189332) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Orsi Larrieux, Florencia (196397) -> Usuario Github: TU_NOMBRE_DE_USUARIO
