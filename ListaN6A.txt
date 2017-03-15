@@ -23,6 +23,6 @@ Orsi Larrieux, Florencia (196397) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Rath Fernández, Andrés Ramón (177240) -> Usuario Github: TU_NOMBRE_DE_USUARIO 
 Rodríguez Giuliani, Federico Agustín (194412) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Sanguinet Rodríguez, Pablo Fabián (156421) -> Usuario Github: TU_NOMBRE_DE_USUARIO
-Sapelli Ferrés, María Agustina (172140) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Sapelli Ferrés, María Agustina (172140) -> Usuario Github:titisapelli 
 Seoane García, Verónica (172103) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Stratta Tarrab, Luis Rodrigo (142630) -> Usuario Github: TU_NOMBRE_DE_USUARIO
