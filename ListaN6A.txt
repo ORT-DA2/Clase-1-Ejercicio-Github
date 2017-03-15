@@ -17,7 +17,7 @@ Hernández Rodríguez, Nicolás Alexis (198765) -> Usuario Github: nicoache1
 Linares Greising, Gonzalo Javier (191873) -> Usuario Github: GonzaloLinares
 Marchisio Napoleone, Santiago (187871) -> Usuario Github: marqui
 Musetti Maestro, Martin (187094) -> Usuario Github: martinmusetti
-Oppenheimer Ras, Martin (195669) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Oppenheimer Ras, Martin (195669) -> Usuario Github: bocha95
 Orrego Torres, Ruben Andrés (189332) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Orsi Larrieux, Florencia (196397) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Rath Fernández, Andrés Ramón (177240) -> Usuario Github: arath9 
