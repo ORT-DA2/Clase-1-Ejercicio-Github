@@ -1,4 +1,4 @@
-Cabrera García, Federico (206062) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+﻿Cabrera García, Federico (206062) -> Usuario Github: TU_NOMBRE_DE_USUARIO
 Cáceres Smitd, Federico Andrés (159520) -> Usuario Github: FedeCaceres
 Chacón Levin, Kevin Mathias (190421) -> Usuario Github: kevinchacon
 Curzio Israel, Constanza (178606) -> Usuario Github: ConstanzaCurzio
@@ -15,7 +15,7 @@ Marchisio Napoleone, Santiago (187871) -> Usuario Github: marqui
 Musetti Maestro, Martin (187094) -> Usuario Github: martinmusetti
 Oppenheimer Ras, Martin (195669) -> Usuario Github: bocha95
 Orrego Torres, Ruben Andrés (189332) -> Usuario Github: TU_NOMBRE_DE_USUARIO
-Orsi Larrieux, Florencia (196397) -> Usuario Github: TU_NOMBRE_DE_USUARIO
+Orsi Larrieux, Florencia (196397) -> Usuario Github: florsi
 Rath Fernández, Andrés Ramón (177240) -> Usuario Github: arath9 
 Rodríguez Giuliani, Federico Agustín (194412) -> Usuario Github: agurz
 Sanguinet Rodríguez, Pablo Fabián (156421) -> Usuario Github: TU_NOMBRE_DE_USUARIO
