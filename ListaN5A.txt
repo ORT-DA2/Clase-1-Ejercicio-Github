@@ -11,7 +11,7 @@
 11 - 207789  ->  Larrañaga  Abayian,  Juan  Ignacio - [usuario de github 207789]
 12 - 178219  ->  Long  Fernández,  Guillermo  Daniel - [usuario de github 178219]
 13 - 183800  ->  López  Dini,  Santiago - [usuario de github 183800]
-14 - 181830  ->  López  Eguren,  Lucas  Santiago - [usuario de github 181830]
+14 - 181830  ->  López  Eguren,  Lucas  Santiago - [usuario de github 181830] - LucasLopezEguren
 15 - 177804  ->  Mancini  Salgado,  Marcelo - [usuario de github 177804]
 16 - 162326  ->  Mariano  Romero,  Daniel - [usuario de github 162326]
 17 - 167880  ->  Márquez  Cardozo,  José  Gabriel - [usuario de github 167880]
@@ -21,6 +21,6 @@
 21 - 175932  ->  Silva  Rigamontti,  Juan  Ignacio - [usuario de github 175932]
 22 - 155486  ->  Torrado  Murillo,  Martin					 - [usuario de github 155486]
 23 - 139189  ->  Trindade  Boleso,  Pablo  Arturo - [usuario de github 139189]
-24 - 163347  ->  Varela  Miranda,  Guzmán - [usuario de github 163347]
-25 - 207505  ->  Verdes  Mariño,  Paola  Tamara - [usuario de github 207505]
+24 - 163347  ->  Varela  Miranda,  Guzmán - [usuario de github 163347] - gumma91
+25 - 207505  ->  Verdes  Mariño,  Paola  Tamara - [usuario de github 207505] - paoverdes
 26 - 147000  ->  Wanseele  Irrazabal,  Raúl  Ignacio - [usuario de github 147000]
