@@ -1,4 +1,4 @@
-1 - 108814  ->  Armellino  Russi,  Pablo  Martín - [usuario de github 108814]
+﻿1 - 108814  ->  Armellino  Russi,  Pablo  Martín - [usuario de github 108814]
 2 - 199283  ->  Barreira  Marichal,  Carmen  Silvana - [usuario de github 199283]
 3 - 179924  ->  Benitez  González,  Pablo  Sebastián - [usuario de github 179924]
 4 - 172457  ->  Brunella  Peraza,  Alejandro  Rafael - [usuario de github 172457]
@@ -13,7 +13,7 @@
 13 - 183800  ->  López  Dini,  Santiago - [usuario de github 183800]
 14 - 181830  ->  López  Eguren,  Lucas  Santiago - [usuario de github 181830]
 15 - 177804  ->  Mancini  Salgado,  Marcelo - [usuario de github 177804]
-16 - 162326  ->  Mariano  Romero,  Daniel - [usuario de github 162326]
+16 - 162326  ->  Mariano  Romero,  Daniel - dmariano001
 17 - 167880  ->  Márquez  Cardozo,  José  Gabriel - [usuario de github 167880]
 18 - 140926  ->  Nieto  Velasco,  Gonzalo  Francisco - [usuario de github 140926]
 19 - 179936  ->  Nogueira  Yañez,  Ernesto - [usuario de github 179936]
