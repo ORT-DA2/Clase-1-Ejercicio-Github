@@ -16,7 +16,7 @@
 16 - 162326  ->  Mariano  Romero,  Daniel - [usuario de github 162326]
 17 - 167880  ->  Márquez  Cardozo,  José  Gabriel - [usuario de github 167880]
 18 - 140926  ->  Nieto  Velasco,  Gonzalo  Francisco - [usuario de github 140926]
-19 - 179936  ->  Nogueira  Yañez,  Ernesto - [usuario de github 179936]
+19 - 179936  ->  Nogueira  Yañez,  Ernesto - enogueira87
 20 - 198961  ->  Otegui  Pérez,  Federico  José - [usuario de github 198961]
 21 - 175932  ->  Silva  Rigamontti,  Juan  Ignacio - [usuario de github 175932]
 22 - 155486  ->  Torrado  Murillo,  Martin					 - [usuario de github 155486]
