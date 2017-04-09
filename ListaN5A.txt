@@ -20,7 +20,7 @@
 20 - 198961  ->  Otegui  Pérez,  Federico  José - [usuario de github 198961]
 21 - 175932  ->  Silva  Rigamontti,  Juan  Ignacio - [jisilva22 175932]
 22 - 155486  ->  Torrado  Murillo,  Martin					 - [usuario de github 155486]
-23 - 139189  ->  Trindade  Boleso,  Pablo  Arturo - [usuario de github 139189]
+23 - 139189  ->  Trindade  Boleso,  Pablo  Arturo - [pabloatb]
 24 - 163347  ->  Varela  Miranda,  Guzmán - [usuario de github 163347]
 25 - 207505  ->  Verdes  Mariño,  Paola  Tamara - [usuario de github 207505]
 26 - 147000  ->  Wanseele  Irrazabal,  Raúl  Ignacio - [usuario de github 147000]
