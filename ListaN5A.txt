@@ -10,7 +10,7 @@
 10 - 182249  ->  Gutierrez  Arbiza,  Lautaro - [usuario de github 182249]
 11 - 207789  ->  Larrañaga  Abayian,  Juan  Ignacio - [usuario de github 207789]
 12 - 178219  ->  Long  Fernández,  Guillermo  Daniel - [usuario de github 178219]
-13 - 183800  ->  López  Dini,  Santiago - [usuario de github 183800]
+13 - 183800  ->  López  Dini,  Santiago - [usuario de github santilo]
 14 - 181830  ->  López  Eguren,  Lucas  Santiago - [usuario de github 181830]
 15 - 177804  ->  Mancini  Salgado,  Marcelo - [usuario de github 177804]
 16 - 162326  ->  Mariano  Romero,  Daniel - [usuario de github 162326]
