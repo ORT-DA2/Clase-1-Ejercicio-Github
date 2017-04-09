@@ -15,7 +15,7 @@
 15 - (186879) Larrosa Lopez, Juan Manuel -> usuario:
 16 - (140088) Leis Correa, Alberto Martín -> usuario:
 17 - (168959) Miraglia De Camilli, Luca Domenico -> usuario:
-18 - (202066) Pollinger Quintero, Maximiliano -> usuario:
+18 - (202066) Pollinger Quintero, Maximiliano -> usuario: pollingerMaxi
 19 - (189636) Rezk Donazar, Fermín Julián -> usuario:
 20 - (188590) Rodríguez Carabajal, Brian Esteban -> usuario:
 21 - (144425) Rodríguez Pais, Cono Eduardo -> usuario:
