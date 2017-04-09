@@ -4,7 +4,7 @@
 4 - 172457  ->  Brunella  Peraza,  Alejandro  Rafael - [usuario de github alebrunella]
 5 - 153621  ->  Cal  Carzoglio,  Alejandro  Cristian - [usuario de github 153621]
 6 - 201742  ->  Eirale  Salvo,  Ignacio  Alberto - [usuario de github 201742]
-7 - 188877  ->  Focco  Pira,  Juan  Ignacio - [usuario de github 188877]
+7 - 188877  ->  Focco  Pira,  Juan  Ignacio - [jfocco]
 8 - 171681  ->  García  Domingo,  Guzmán  Gonzalo - [usuario de github 171681]
 9 - 190500  ->  Gonzalez  Roso,  Nicolas  Ignacio - [usuario de github 190500]
 10 - 182249  ->  Gutierrez  Arbiza,  Lautaro - [usuario de github 182249]
