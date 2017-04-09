@@ -23,5 +23,5 @@
 23 - 139189  ->  Trindade  Boleso,  Pablo  Arturo - [pabloatb]
 24 - 163347  ->  Varela  Miranda,  Guzmán - [usuario de github 163347] - gumma91
 25 - 207505  ->  Verdes  Mariño,  Paola  Tamara - [usuario de github 207505] - paoverdes
-26 - 147000  ->  Wanseele  Irrazabal,  Raúl  Ignacio - [usuario de github 147000]
+26 - 147000  ->  Wanseele  Irrazabal,  Raúl  Ignacio - [raulwanseele]
 27 - 91321   ->  Cabrera Costa, Fernando - [usuario de github fgcabrera]
