@@ -1,26 +1,27 @@
 1 - 108814  ->  Armellino  Russi,  Pablo  Martín - [usuario de github 108814]
-2 - 199283  ->  Barreira  Marichal,  Carmen  Silvana - [usuario de github 199283]
-3 - 179924  ->  Benitez  González,  Pablo  Sebastián - [usuario de github 179924]
-4 - 172457  ->  Brunella  Peraza,  Alejandro  Rafael - [usuario de github 172457]
-5 - 153621  ->  Cal  Carzoglio,  Alejandro  Cristian - [usuario de github 153621]
+2 - 199283  ->  Barreira  Marichal,  Carmen  Silvana - [usuario de github 199283] CarmenBarreira  
+3 - 179924  ->  Benitez  González,  Pablo  Sebastián - [centerax]
+4 - 172457  ->  Brunella  Peraza,  Alejandro  Rafael - [usuario de github alebrunella]
+5 - 153621  ->  Cal  Carzoglio,  Alejandro  Cristian - alejandrocal
 6 - 201742  ->  Eirale  Salvo,  Ignacio  Alberto - [usuario de github 201742]
-7 - 188877  ->  Focco  Pira,  Juan  Ignacio - [usuario de github 188877]
+7 - 188877  ->  Focco  Pira,  Juan  Ignacio - [jfocco]
 8 - 171681  ->  García  Domingo,  Guzmán  Gonzalo - [usuario de github 171681]
 9 - 190500  ->  Gonzalez  Roso,  Nicolas  Ignacio - [usuario de github 190500]
 10 - 182249  ->  Gutierrez  Arbiza,  Lautaro - [usuario de github 182249]
 11 - 207789  ->  Larrañaga  Abayian,  Juan  Ignacio - [usuario de github 207789]
 12 - 178219  ->  Long  Fernández,  Guillermo  Daniel - [usuario de github 178219]
-13 - 183800  ->  López  Dini,  Santiago - [usuario de github 183800]
-14 - 181830  ->  López  Eguren,  Lucas  Santiago - [usuario de github 181830]
+13 - 183800  ->  López  Dini,  Santiago - [usuario de github santilo]
+14 - 181830  ->  López  Eguren,  Lucas  Santiago - [usuario de github 181830] - LucasLopezEguren
 15 - 177804  ->  Mancini  Salgado,  Marcelo - [usuario de github 177804]
-16 - 162326  ->  Mariano  Romero,  Daniel - [usuario de github 162326]
+16 - 162326  ->  Mariano  Romero,  Daniel - dmariano001
 17 - 167880  ->  Márquez  Cardozo,  José  Gabriel - [usuario de github 167880]
 18 - 140926  ->  Nieto  Velasco,  Gonzalo  Francisco - [usuario de github 140926]
-19 - 179936  ->  Nogueira  Yañez,  Ernesto - [usuario de github 179936]
+19 - 179936  ->  Nogueira  Yañez,  Ernesto - enogueira87
 20 - 198961  ->  Otegui  Pérez,  Federico  José - [usuario de github 198961]
-21 - 175932  ->  Silva  Rigamontti,  Juan  Ignacio - [usuario de github 175932]
-22 - 155486  ->  Torrado  Murillo,  Martin					 - [usuario de github 155486]
-23 - 139189  ->  Trindade  Boleso,  Pablo  Arturo - [usuario de github 139189]
-24 - 163347  ->  Varela  Miranda,  Guzmán - [usuario de github 163347]
-25 - 207505  ->  Verdes  Mariño,  Paola  Tamara - [usuario de github 207505]
-26 - 147000  ->  Wanseele  Irrazabal,  Raúl  Ignacio - [usuario de github 147000]
+21 - 175932  ->  Silva  Rigamontti,  Juan  Ignacio - [jisilva22 175932]
+22 - 155486  ->  Torrado  Murillo,  Martin - [mtorrado]
+23 - 139189  ->  Trindade  Boleso,  Pablo  Arturo - [pabloatb]
+24 - 163347  ->  Varela  Miranda,  Guzmán - [usuario de github 163347] - gumma91
+25 - 207505  ->  Verdes  Mariño,  Paola  Tamara - [usuario de github 207505] - paoverdes
+26 - 147000  ->  Wanseele  Irrazabal,  Raúl  Ignacio - [raulwanseele]
+27 - 91321   ->  Cabrera Costa, Fernando - [usuario de github fgcabrera]
