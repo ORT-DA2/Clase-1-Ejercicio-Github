@@ -4,7 +4,7 @@
  4 - (182770) Barrios Garcia, Pedro Gabriel -> usuario:
  5 - (185088) Blanco Grosso, Mateo -> usuario:
  6 - (192633) Burone Schaffner, Nicolás Mathías -> usuario:
- 7 - (191100) Caballero Varela, Nicolás Matías -> usuario:
+ 7 - (191100) Caballero Varela, Nicolás Matías -> usuario: NicoCaballero
  8 - (181147) Coates D' Alessandro, Andrés -> usuario:
  9 - (175155) Cordoves Franco, Felipe Germán -> usuario:
 10 - (194247) Felix Aberastegui, Mathias Daniel -> usuario:
@@ -15,7 +15,7 @@
 15 - (186879) Larrosa Lopez, Juan Manuel -> usuario:
 16 - (140088) Leis Correa, Alberto Martín -> usuario:
 17 - (168959) Miraglia De Camilli, Luca Domenico -> usuario:
-18 - (202066) Pollinger Quintero, Maximiliano -> usuario:
+18 - (202066) Pollinger Quintero, Maximiliano -> usuario: pollingerMaxi
 19 - (189636) Rezk Donazar, Fermín Julián -> usuario:
 20 - (188590) Rodríguez Carabajal, Brian Esteban -> usuario:
 21 - (144425) Rodríguez Pais, Cono Eduardo -> usuario:
