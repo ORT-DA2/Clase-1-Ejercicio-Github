@@ -1,6 +1,6 @@
 201523	Alonso  Gerla,  Rafael  José  -> usuario: 		
 198685	Balbi  Alves,  Diego  Nicolás  -> usuario: 		
-146477	Belfer  Mazal,  Marcelo	 -> usuario: 
+146477	Belfer  Mazal,  Marcelo	 -> usuario: belfero
 195667	Betizagasti  Rodríguez,  Astul  -> usuario: 			
 195581	Bursztein  Lewi,  Gabriel  -> usuario: 
 205101	Bzurovski  Polischuk,  Martín -> usuario: 		
