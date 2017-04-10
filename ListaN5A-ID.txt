@@ -13,7 +13,7 @@
 13 - 204692 -> Lezuez  Bianchi,  Rodrigo - [usuario de github 204692]
 14 - 168665 -> Martinez  Goudschaal,  Federico - [usuario de github 168665]
 15 - 147824 -> Pereira  Cano,  Ismael - [ipereirac]
-16 - 189640 -> Petrocelli  Olivar,  Paolo  Giovanni - [usuario de github 189640]
+16 - 189640 -> Petrocelli  Olivar,  Paolo  Giovanni - [usuario de github McPetro]
 17 - 182177 -> Silva  Lepre,  Gonzalo  Daniel - [usuario de github 182177]
 18 - 200131 -> Techera  Galvan,  Sebastian  Oscar - [usuario de github 200131]
 19 - 201150 -> Vezoli  Lagrotta,  Bruno - [usuario de github 201150]
