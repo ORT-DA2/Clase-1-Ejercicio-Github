@@ -1,5 +1,5 @@
  1 - (168053) Alvarez Kiriakidis, Javier -> usuario: 
- 2 - (202373) Aramberri Schegel, Javier -> usuario:
+ 2 - (202373) Aramberri Schegel, Javier -> usuario: javierarams
  3 - (154912) Ariceta de las Heras, Diego Miguel -> usuario:
  4 - (182770) Barrios Garcia, Pedro Gabriel -> usuario:
  5 - (185088) Blanco Grosso, Mateo -> usuario:
