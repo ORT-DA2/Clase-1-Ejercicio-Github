@@ -8,7 +8,7 @@
 8 - 191504 -> Gatica  Garicoits,  Joaquín - joaquingatica
 9 - 179107 -> Grunwaldt  Cerruti,  Alejandro - AlejandroGrunwaldt
 10 - 200244 -> Gutiérrez  Erpi,  Matías - 2guti2
-11 - 199092 -> Hernández  García,  Ramiro  Andrés - [usuario de github 199092]
+11 - 199092 -> Hernández  García,  Ramiro  Andrés - ramiroandreshg
 12 - 94068 -> Kuster  Garese,  Gustavo  Luis - [usuario de github 94068]
 13 - 204692 -> Lezuez  Bianchi,  Rodrigo - [usuario de github 204692]
 14 - 168665 -> Martinez  Goudschaal,  Federico - [usuario de github 168665]
