@@ -9,7 +9,7 @@
  9 - (175155) Cordoves Franco, Felipe Germán -> usuario:
 10 - (194247) Felix Aberastegui, Mathias Daniel -> usuario:
 11 - (156887) Fernández Doyenart, Washington Agustin -> usuario:
-12 - (181592) González Cordero, Nicolás Guzmán -> usuario:
+12 - (181592) González Cordero, Nicolás Guzmán -> usuario: Unnil
 13 - (200569) González Vidart, Juan Manuel -> usuario: jotaemege
 14 - (87036)  Lamas Vigorito, Luis Ignacio -> usuario:
 15 - (186879) Larrosa Lopez, Juan Manuel -> usuario:
