@@ -1,4 +1,4 @@
-1 - 162693 -> Aneff  Carve,  Ivan  Alexander - [usuario de github 162693]
+﻿1 - 162693 -> Aneff  Carve,  Ivan  Alexander - [usuario de github 162693]
 2 - 194457 -> Areosa  Denevi,  Diego  Alvaro - [usuario de github 194457]
 3 - 164886 -> Badaracco  Almanza,  Camilo - [usuario de github 164886]
 4 - 91321 -> Cabrera  Costa,  Fernando  Guzmán - fgcabrera
@@ -17,4 +17,4 @@
 17 - 182177 -> Silva  Lepre,  Gonzalo  Daniel - [usuario de github 182177]
 18 - 200131 -> Techera  Galvan,  Sebastian  Oscar - [usuario de github 200131]
 19 - 201150 -> Vezoli  Lagrotta,  Bruno - brunvez
-20 - 185975 -> Vilensky  Kon,  Federico - [usuario de github 185975]
+20 - 185975 -> Vilensky  Kon,  Federico - fedevilensky
