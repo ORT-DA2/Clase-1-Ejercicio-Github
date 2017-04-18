@@ -1,6 +1,6 @@
 201523	Alonso  Gerla,  Rafael  José  -> usuario: 		
 198685	Balbi  Alves,  Diego  Nicolás  -> usuario: 		
-146477	Belfer  Mazal,  Marcelo	 -> usuario: 
+146477	Belfer  Mazal,  Marcelo	 -> usuario: belfero
 195667	Betizagasti  Rodríguez,  Astul  -> usuario: 			
 195581	Bursztein  Lewi,  Gabriel  -> usuario: 
 205101	Bzurovski  Polischuk,  Martín -> usuario: 		
@@ -16,8 +16,8 @@
 201542	Jude  Engel,  Guillermo  Federico -> usuario: 			
 200587	Martínez  Mendoza,  María  Victoria	 -> usuario:		
 180521	Oribe  Bajac,  Joaquín	 -> usuario: 
-218301	Pereira  Andrioli,  Juan  Manuel  -> usuario: 				
-224435	Pereyra  Rodríguez,  Gabriel  Gustavo -> usuario: 			
+218301	Pereira  Andrioli,  Juan  Manuel  -> usuario: jotaemepereira 				
+224435	Pereyra  Rodríguez,  Gabriel  Gustavo -> usuario: gabos006			
 186022	Pérez  Sauciuc,  Jorge  Ignacio	 -> usuario: 
 167119	Piñatares  Méndez,  Héctor  Fabián	 -> usuario: 
 196470	Rezk  Madeiro,  Gabriel  Nadim -> usuario: 
