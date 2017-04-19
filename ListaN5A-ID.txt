@@ -14,7 +14,7 @@
 14 - 168665 -> Martinez  Goudschaal,  Federico - [usuario de github 168665]
 15 - 147824 -> Pereira  Cano,  Ismael - ipereirac
 16 - 189640 -> Petrocelli  Olivar,  Paolo  Giovanni - McPetro
-17 - 182177 -> Silva  Lepre,  Gonzalo  Daniel 
+17 - 182177 -> Silva  Lepre,  Gonzalo  Daniel [usuario de github ragonsoy]
 18 - 200131 -> Techera  Galvan,  Sebastian  Oscar - sebatech
 19 - 201150 -> Vezoli  Lagrotta,  Bruno - brunvez
 20 - 185975 -> Vilensky  Kon,  Federico - fedevilensky
