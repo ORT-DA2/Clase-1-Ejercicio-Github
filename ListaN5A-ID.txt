@@ -1,8 +1,8 @@
-1 - 162693 -> Aneff  Carve,  Ivan  Alexander - [usuario de github 162693]
+﻿1 - 162693 -> Aneff  Carve,  Ivan  Alexander - [usuario de github 162693]
 2 - 194457 -> Areosa  Denevi,  Diego  Alvaro - [usuario de github 194457]
 3 - 164886 -> Badaracco  Almanza,  Camilo - [usuario de github 164886]
 4 - 91321 -> Cabrera  Costa,  Fernando  Guzmán - fgcabrera
-5 - 195485 -> Castro  García,  Facundo  Valentín - [usuario de github 195485]
+5 - 195485 -> Castro  García,  Facundo  Valentín - fcastro07
 6 - 150273 -> Francescoli  Rocca,  Paola - usuario: paofran 
 7 - 165914 -> Galarraga  Curbelo,  Marcelo  Adrian - [usuario de github 165914]
 8 - 191504 -> Gatica  Garicoits,  Joaquín - joaquingatica
@@ -10,11 +10,11 @@
 10 - 200244 -> Gutiérrez  Erpi,  Matías - 2guti2
 11 - 199092 -> Hernández  García,  Ramiro  Andrés - [usuario de github 199092]
 12 - 94068 -> Kuster  Garese,  Gustavo  Luis - [usuario de github 94068]
-13 - 204692 -> Lezuez  Bianchi,  Rodrigo - [usuario de github 204692]
+13 - 204692 -> Lezuez  Bianchi,  Rodrigo - rlezuez
 14 - 168665 -> Martinez  Goudschaal,  Federico - [usuario de github 168665]
 15 - 147824 -> Pereira  Cano,  Ismael - ipereirac
 16 - 189640 -> Petrocelli  Olivar,  Paolo  Giovanni - McPetro
 17 - 182177 -> Silva  Lepre,  Gonzalo  Daniel - [usuario de github 182177]
 18 - 200131 -> Techera  Galvan,  Sebastian  Oscar - [usuario de github 200131]
 19 - 201150 -> Vezoli  Lagrotta,  Bruno - brunvez
-20 - 185975 -> Vilensky  Kon,  Federico - [usuario de github 185975]
+20 - 185975 -> Vilensky  Kon,  Federico - fedevilensky
