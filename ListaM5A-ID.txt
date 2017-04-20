@@ -2,3 +2,5 @@
 2 - (194973) Uriarte Güimil, Sebastián -> usuario: sebassu
 3 - (153989) Tortorella González, Marcelo Emiliano -> usuario: emitor
 4 - (199394) Girardi D'Avila, Francisco Genaro -> usuario: WeisserRitter
+5 - (204582) Santellanes Parella, Dario Sebastian -> dariosantellanes
+6 - (185082) Acevedo Torrado, Daniel Gonzalo -> daniel18acevedo
