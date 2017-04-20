@@ -6,12 +6,12 @@
 205101	Bzurovski  Polischuk,  Martín -> usuario: 		
 178062	Canessa  Michelini,  Andrés	 -> usuario: andrescanessa 	
 200562	Caraballo  Manzi,  Sebastián  Alfredo	-> usuario: sebastiancaraballo			
-193221	Cetraro  Migliardi,  Federico  Andrés	-> usuario: 	
+193221	Cetraro  Migliardi,  Federico  Andrés	-> usuario: facetraro
 200604	Dabezies  Irla,  Lucia  Maria	 -> usuario: 
 187878	Dominguez  Acerenza,  Gastón  Eugenio	 -> usuario: 				
 193682	Espalter  Pacheco,  Dolores  María	 -> usuario: 
 192482	Freyre  Bartol,  Federica  María  -> usuario: ffreyre	
-194738	Grobert  Sniadower,  Fabián  -> usuario: 
+194738	Grobert  Sniadower,  Fabián  -> usuario: FabianGrob
 200525	Iszakovits  Yavitz,  Ionatan  -> usuario: 		
 201542	Jude  Engel,  Guillermo  Federico -> usuario: 	guillejude		
 200587	Martínez  Mendoza,  María  Victoria	 -> usuario:		
