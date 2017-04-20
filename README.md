@@ -1,5 +1,5 @@
 # Ejercicio GitHub
-Ejercicio simple de GitHub para el grupo N5A 2017 (Marzo)
+Ejercicio simple de GitHub para los grupos 1er semestre 2017 (Marzo)
 
 La idea es poder trabajar sobre un repositorio remoto, a modo de puesta en práctica de los conceptos de Git vistos en clase.
 
