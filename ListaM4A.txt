@@ -2,7 +2,7 @@
  2 - (202373) Aramberri Schegel, Javier -> usuario: javierarams
  3 - (154912) Ariceta de las Heras, Diego Miguel -> usuario:diegoar1701
  4 - (182770) Barrios Garcia, Pedro Gabriel -> usuario:
- 5 - (185088) Blanco Grosso, Mateo -> usuario:
+ 5 - (185088) Blanco Grosso, Mateo -> usuario: mateoblanco
  6 - (192633) Burone Schaffner, Nicolás Mathías -> usuario:
  7 - (191100) Caballero Varela, Nicolás Matías -> usuario: NicoCaballero
  8 - (181147) Coates D' Alessandro, Andrés -> usuario:
@@ -12,7 +12,7 @@
 12 - (181592) González Cordero, Nicolás Guzmán -> usuario: Unnil
 13 - (200569) González Vidart, Juan Manuel -> usuario: jotaemege
 14 - (87036)  Lamas Vigorito, Luis Ignacio -> usuario: luislamasvi
-15 - (186879) Larrosa Lopez, Juan Manuel -> usuario:
+15 - (186879) Larrosa Lopez, Juan Manuel -> usuario: JuanLarrosa
 16 - (140088) Leis Correa, Alberto Martín -> TinchoLeis:
 17 - (168959) Miraglia De Camilli, Luca Domenico -> usuario:
 18 - (202066) Pollinger Quintero, Maximiliano -> usuario: pollingerMaxi
