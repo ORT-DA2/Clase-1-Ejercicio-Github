@@ -19,5 +19,5 @@
 19 - (189636) Rezk Donazar, Fermín Julián -> usuario: julianrezk
 20 - (188590) Rodríguez Carabajal, Brian Esteban -> usuario:
 21 - (144425) Rodríguez Pais, Cono Eduardo -> usuario: cono05
-22 - (150875) Sisto Polido, Daniel -> usuario:
+22 - (150875) Sisto Polido, Daniel -> usuario:black1891
 23 - (193768) Wertheim Rabsten, Matías -> usuario: MatiasWertheim
