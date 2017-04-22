@@ -18,7 +18,7 @@
 180521	Oribe  Bajac,  Joaquín	 -> usuario: joacooribe
 218301	Pereira  Andrioli,  Juan  Manuel  -> usuario: jotaemepereira 				
 224435	Pereyra  Rodríguez,  Gabriel  Gustavo -> usuario: gabos006			
-186022	Pérez  Sauciuc,  Jorge  Ignacio	 -> usuario: 
+186022	Pérez  Sauciuc,  Jorge  Ignacio	 -> usuario: PerezIgnacio
 167119	Piñatares  Méndez,  Héctor  Fabián	 -> usuario: 
 196470	Rezk  Madeiro,  Gabriel  Nadim -> usuario: gabrielrezk
 193285	Riente  Sosa,  Ileana  Cristina -> usuario: 	
