@@ -1,6 +1,6 @@
 ﻿1 - 162693 -> Aneff  Carve,  Ivan  Alexander - [usuario de github 162693]
 2 - 194457 -> Areosa  Denevi,  Diego  Alvaro - [usuario de github 194457]
-3 - 164886 -> Badaracco  Almanza,  Camilo - [CamiloBadaracco] 
+3 - 164886 -> Badaracco  Almanza,  Camilo - CamiloBadaracco
 4 - 91321 -> Cabrera  Costa,  Fernando  Guzmán - fgcabrera
 5 - 195485 -> Castro  García,  Facundo  Valentín - fcastro07
 6 - 150273 -> Francescoli  Rocca,  Paola - usuario: paofran 
