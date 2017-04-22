@@ -17,7 +17,7 @@
 17 - 167880  ->  Márquez  Cardozo,  José  Gabriel - [usuario de github 167880]
 18 - 140926  ->  Nieto  Velasco,  Gonzalo  Francisco - gonzalonieto
 19 - 179936  ->  Nogueira  Yañez,  Ernesto - [usuario de github 179936]
-20 - 198961  ->  Otegui  Pérez,  Federico  José - [usuario de git   hub 198961]
+20 - 198961  ->  Otegui  Pérez,  Federico  José - federicootegui
 21 - 175932  ->  Silva  Rigamontti,  Juan  Ignacio - [jisilva22 175932]
 22 - 155486  ->  Torrado  Murillo,  Martin - [mtorrado]
 23 - 139189  ->  Trindade  Boleso,  Pablo  Arturo - [pabloatb]
