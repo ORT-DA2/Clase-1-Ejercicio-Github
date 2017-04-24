@@ -6,3 +6,5 @@
 6 - (199394) Girardi D'Avila, Francisco Genaro -> usuario: WeisserRitter
 7 - (204582) Santellanes Parella, Dario Sebastian -> dariosantellanes
 8 - (185082) Acevedo Torrado, Daniel Gonzalo -> daniel18acevedo
+9 - (193427) Couste Prato, Juan Pedro -> usuario: JuanCouste
+10 - (199657) Pan Suarez, Federico -> usuario: Fede1311
