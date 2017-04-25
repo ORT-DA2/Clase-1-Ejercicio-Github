@@ -4,7 +4,7 @@
 4 - 91321 -> Cabrera  Costa,  Fernando  Guzmán - fgcabrera
 5 - 195485 -> Castro  García,  Facundo  Valentín - fcastro07
 6 - 150273 -> Francescoli  Rocca,  Paola - usuario: paofran 
-7 - 165914 -> Galarraga  Curbelo,  Marcelo  Adrian - [usuario de github 165914]
+7 - 165914 -> Galarraga  Curbelo,  Marcelo  Adrian - marceloua
 8 - 191504 -> Gatica  Garicoits,  Joaquín - joaquingatica
 9 - 179107 -> Grunwaldt  Cerruti,  Alejandro - AlejandroGrunwaldt
 10 - 200244 -> Gutiérrez  Erpi,  Matías - 2guti2
