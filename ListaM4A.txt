@@ -3,7 +3,7 @@
  3 - (154912) Ariceta de las Heras, Diego Miguel -> usuario:diegoar1701
  4 - (182770) Barrios Garcia, Pedro Gabriel -> usuario:pedrobarrios
  5 - (185088) Blanco Grosso, Mateo -> usuario: mateoblanco
- 6 - (192633) Burone Schaffner, Nicolás Mathías -> usuario:
+ 6 - (192633) Burone Schaffner, Nicolás Mathías -> usuario: nburone
  7 - (191100) Caballero Varela, Nicolás Matías -> usuario: NicoCaballero
  8 - (181147) Coates D' Alessandro, Andrés -> usuario: AndresCoates
  9 - (175155) Cordoves Franco, Felipe Germán -> usuario:
