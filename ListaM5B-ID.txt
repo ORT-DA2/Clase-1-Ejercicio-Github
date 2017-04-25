@@ -8,7 +8,7 @@
 200562	Caraballo  Manzi,  Sebastián  Alfredo	-> usuario: sebastiancaraballo			
 193221	Cetraro  Migliardi,  Federico  Andrés	-> usuario: facetraro
 200604	Dabezies  Irla,  Lucia  Maria	 -> usuario: luciadabezies
-187878	Dominguez  Acerenza,  Gastón  Eugenio	 -> usuario: 				
+187878	Dominguez  Acerenza,  Gastón  Eugenio	 -> usuario: dominguezgaston				
 193682	Espalter  Pacheco,  Dolores  María	 -> usuario: 
 192482	Freyre  Bartol,  Federica  María  -> usuario: ffreyre	
 194738	Grobert  Sniadower,  Fabián  -> usuario: FabianGrob
