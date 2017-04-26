@@ -6,7 +6,7 @@
  6 - (192633) Burone Schaffner, Nicolás Mathías -> usuario: nburone
  7 - (191100) Caballero Varela, Nicolás Matías -> usuario: NicoCaballero
  8 - (181147) Coates D' Alessandro, Andrés -> usuario: AndresCoates
- 9 - (175155) Cordoves Franco, Felipe Germán -> usuario:
+ 9 - (175155) Cordoves Franco, Felipe Germán -> usuario: feloc50
 10 - (194247) Felix Aberastegui, Mathias Daniel -> usuario:Mathias25
 11 - (156887) Fernández Doyenart, Washington Agustin -> usuario:
 12 - (181592) González Cordero, Nicolás Guzmán -> usuario: Unnil
