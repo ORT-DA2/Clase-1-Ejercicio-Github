@@ -17,7 +17,7 @@
 17 - (168959) Miraglia De Camilli, Luca Domenico -> usuario:
 18 - (202066) Pollinger Quintero, Maximiliano -> usuario: pollingerMaxi
 19 - (189636) Rezk Donazar, Fermín Julián -> usuario: julianrezk
-20 - (188590) Rodríguez Carabajal, Brian Esteban -> usuario:
+20 - (188590) Rodríguez Carabajal, Brian Esteban -> usuario: brianerc
 21 - (144425) Rodríguez Pais, Cono Eduardo -> usuario: cono05
 22 - (150875) Sisto Polido, Daniel -> usuario:black1891
 23 - (193768) Wertheim Rabsten, Matías -> usuario: MatiasWertheim
