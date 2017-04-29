@@ -8,13 +8,13 @@
 200562	Caraballo  Manzi,  Sebastián  Alfredo	-> usuario: sebastiancaraballo			
 193221	Cetraro  Migliardi,  Federico  Andrés	-> usuario: facetraro
 200604	Dabezies  Irla,  Lucia  Maria	 -> usuario: luciadabezies
-187878	Dominguez  Acerenza,  Gastón  Eugenio	 -> usuario: 				
+187878	Dominguez  Acerenza,  Gastón  Eugenio	 -> usuario: dominguezgaston				
 193682	Espalter  Pacheco,  Dolores  María	 -> usuario: 
 192482	Freyre  Bartol,  Federica  María  -> usuario: ffreyre	
 194738	Grobert  Sniadower,  Fabián  -> usuario: FabianGrob
 200525	Iszakovits  Yavitz,  Ionatan  -> usuario: 		
 201542	Jude  Engel,  Guillermo  Federico -> usuario: 	guillejude		
-200587	Martínez  Mendoza,  María  Victoria	 -> usuario:		
+200587	Martínez  Mendoza,  María  Victoria	 -> usuario: maavimartinez	
 180521	Oribe  Bajac,  Joaquín	 -> usuario: joacooribe
 218301	Pereira  Andrioli,  Juan  Manuel  -> usuario: jotaemepereira 				
 224435	Pereyra  Rodríguez,  Gabriel  Gustavo -> usuario: gabos006			
@@ -22,5 +22,5 @@
 167119	Piñatares  Méndez,  Héctor  Fabián	 -> usuario: 
 196470	Rezk  Madeiro,  Gabriel  Nadim -> usuario: gabrielrezk
 193285	Riente  Sosa,  Ileana  Cristina -> usuario: 	
-166208	Rodríguez  Bianchi,  Martín  Carlos -> usuario: 		
+166208	Rodríguez  Bianchi,  Martín  Carlos -> usuario: martinRodriguezB	
 203579	Rodriguez  Bianchi,  Viviana  Lourdes	 -> usuario: vivianaRB 		
