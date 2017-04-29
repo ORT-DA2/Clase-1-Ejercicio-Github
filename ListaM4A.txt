@@ -14,7 +14,7 @@
 14 - (87036)  Lamas Vigorito, Luis Ignacio -> usuario: luislamasvi
 15 - (186879) Larrosa Lopez, Juan Manuel -> usuario: JuanLarrosa
 16 - (140088) Leis Correa, Alberto Martín -> TinchoLeis:
-17 - (168959) Miraglia De Camilli, Luca Domenico -> usuario:Lucamdk
+17 - (168959) Miraglia De Camilli, Luca Domenico -> usuario: Lucamdk
 18 - (202066) Pollinger Quintero, Maximiliano -> usuario: pollingerMaxi
 19 - (189636) Rezk Donazar, Fermín Julián -> usuario: julianrezk
 20 - (188590) Rodríguez Carabajal, Brian Esteban -> usuario:
