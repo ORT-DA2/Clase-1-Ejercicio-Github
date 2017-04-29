@@ -7,12 +7,12 @@
 7 - 188877  ->  Focco  Pira,  Juan  Ignacio - [jfocco]
 8 - 171681  ->  García  Domingo,  Guzmán  Gonzalo - [usuario de github 171681]
 9 - 190500  ->  Gonzalez  Roso,  Nicolas  Ignacio - DolapeUy
-10 - 182249  ->  Gutierrez  Arbiza,  Lautaro - [usuario de github 182249]
+10 - 182249  ->  Gutierrez  Arbiza,  Lautaro - [usuario de github 182249] - Lautaro2017
 11 - 207789  ->  Larrañaga  Abayian,  Juan  Ignacio - [usuario de github 207789]
 12 - 178219  ->  Long  Fernández,  Guillermo  Daniel - [usuario de github 178219]
 13 - 183800  ->  López  Dini,  Santiago - [usuario de github santilo]
 14 - 181830  ->  López  Eguren,  Lucas  Santiago - [usuario de github 181830] - LucasLopezEguren
-15 - 177804  ->  Mancini  Salgado,  Marcelo - [usuario de github 177804]
+15 - 177804  ->  Mancini  Salgado,  Marcelo - [usuario de github 177804] - manchiny24
 16 - 162326  ->  Mariano  Romero,  Daniel - dmariano001
 17 - 167880  ->  Márquez  Cardozo,  José  Gabriel - [usuario de github 167880]
 18 - 140926  ->  Nieto  Velasco,  Gonzalo  Francisco - gonzalonieto
@@ -24,3 +24,4 @@
 24 - 163347  ->  Varela  Miranda,  Guzmán - [usuario de github 163347] - gumma91
 25 - 207505  ->  Verdes  Mariño,  Paola  Tamara - [usuario de github 207505] - paoverdes
 26 - 147000  ->  Wanseele  Irrazabal,  Raúl  Ignacio - [raulwanseele]
+-
