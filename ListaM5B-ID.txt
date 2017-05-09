@@ -12,7 +12,7 @@
 193682	Espalter  Pacheco,  Dolores  María	 -> usuario:
 192482	Freyre  Bartol,  Federica  María  -> usuario: ffreyre
 194738	Grobert  Sniadower,  Fabián  -> usuario: FabianGrob
-200525	Iszakovits  Yavitz,  Ionatan  -> usuario:
+200525	Iszakovits  Yavitz,  Ionatan  -> usuario: ioniIszakovits
 201542	Jude  Engel,  Guillermo  Federico -> usuario: 	guillejude
 200587	Martínez  Mendoza,  María  Victoria	 -> usuario: maavimartinez
 180521	Oribe  Bajac,  Joaquín	 -> usuario: joacooribe
