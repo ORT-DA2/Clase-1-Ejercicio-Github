@@ -3,7 +3,7 @@
 146477	Belfer  Mazal,  Marcelo	 -> usuario: belfero
 195667	Betizagasti  Rodríguez,  Astul  -> usuario: astulb			
 195581	Bursztein  Lewi,  Gabriel  -> usuario: 
-205101	Bzurovski  Polischuk,  Martín -> usuario: 		
+205101	Bzurovski  Polischuk,  Martín -> usuario: martinzuro		
 178062	Canessa  Michelini,  Andrés	 -> usuario: andrescanessa 	
 200562	Caraballo  Manzi,  Sebastián  Alfredo	-> usuario: sebastiancaraballo			
 193221	Cetraro  Migliardi,  Federico  Andrés	-> usuario: facetraro
