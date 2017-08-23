@@ -14,6 +14,6 @@ Además, es necesario utilizar un usuario de GitHub, por lo que se debe crear un
 1) Realizar un **fork** de este repositorio con su usuario. [¿Cómo hacer un Fork?](https://help.github.com/articles/fork-a-repo/) 
 2) Si se trabaja desde ORT: ```git config --global http.proxy http://proxycen.ort.edu.uy:80```.  
 3) Clonar el repositorio en su máquina, teniendo ahora un repo local. **Importante clonar la rama de su grupo**.
-4) En el archivo que corresponda ```Lista.txt``` , buscar su nombre y escribir su usuario de github a continuación del mismo. Si no encuentran su nombre seguramente clonaron la rama de otro grupo. 
+4) En el archivo ```Lista.txt``` , buscar su nombre y escribir su usuario de github a continuación del mismo. Si no encuentran su nombre seguramente clonaron la rama de otro grupo. 
 5) Hacer ***push*** con sus cambios al repositorio propio.  
 6) Hacer un ***pull request*** al repositorio original.
