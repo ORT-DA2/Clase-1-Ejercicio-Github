@@ -1,5 +1,5 @@
-# Ejercicio GitHub
-Ejercicio simple de GitHub
+
+Ejercicio de GitHub
 
 La idea es poder trabajar sobre un repositorio remoto, a modo de puesta en práctica de los conceptos de Git vistos en clase.
 
