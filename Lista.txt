@@ -1,9 +1,9 @@
-﻿---------------Ejemplo------------------
+---------------Ejemplo------------------
 Visca, Ramiro (xxxxxx) -> Usuario Github: ramiroviszan
 ----------------------------------------
 
 Almeida Noble, Santiago  (176862) -> Usuario Github: 
-Arbildi Montero, Sebastián Matías (187015) -> Usuario Github: 
+Arbildi Montero, Sebastián Matías (187015) -> Usuario Github: sebaarbildi
 Badaracco Almanza, Camilo  (164886) -> Usuario Github: CamiloBadaracco
 Bergara Labraga, Agustín  (183401) -> Usuario Github: 
 Blanco Ochoa, Dan Jonathan (194544) -> Usuario Github: dablanco
