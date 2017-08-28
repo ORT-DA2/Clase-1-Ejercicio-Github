@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Piffaretti, Gabriel (xxxxxx) -> Usuario Github: piffarettig
 ----------------------------------------
 
@@ -15,7 +15,7 @@ Iszakovits Yavitz, Ionatan (200525) -> Usuario Github:
 Jude Engel, Guillermo Federico (201542) -> Usuario Github:
 López Eguren, Alejandro Carlos (191415) -> Usuario Github:
 Manini Irazoqui, Sol (192506) -> Usuario Github:
-Marchisio Napoleone, Santiago (187871) -> Usuario Github:
+Marchisio Napoleone, Santiago (187871) -> Usuario Github: marqui
 Morales Jaurena, Pablo Martín (177769) -> Usuario Github:
 Pollio Pollero, Francisco (192448) -> Usuario Github:
 Rossi Sosa, Santiago (189300) -> Usuario Github:
