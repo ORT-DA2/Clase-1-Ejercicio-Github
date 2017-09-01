@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Visca, Ramiro (xxxxxx) -> Usuario Github: ramiroviszan
 ----------------------------------------
 
@@ -6,7 +6,7 @@ Belfer Mazal, Marcelo  (146477) -> Usuario Github:
 Bentancor Bevilacqua, Joaquín Andrés (186092) -> Usuario Github:
 Betizagasti Rodríguez, Astul  (195667) -> Usuario Github:
 Bravo Martínez, Manuel  (174794) -> Usuario Github:
-Couste Prato, Juan Pedro (193427) -> Usuario Github:
+Couste Prato, Juan Pedro (193427) -> Usuario Github: JuanCouste
 de Pro Pancini, Agustina  (202112) -> Usuario Github: agusdepro
 Fabre Martinez, Mauricio  (187077) -> Usuario Github:
 Ferreyro Fernández, Carolina  (159672) -> Usuario Github:
@@ -15,6 +15,6 @@ Girardi D'Avila, Francisco Genaro (199394) -> Usuario Github:
 Gnocchi Caches, Luciano  (173811) -> Usuario Github:
 Grobert Sniadower, Fabián  (194738) -> Usuario Github:
 Nacimento Botta, Mauro Gastón (169607) -> Usuario Github:
-Pan Suarez, Federico  (199657) -> Usuario Github:
-Pérez Sauciuc, Jorge Ignacio (186022) -> Usuario Github:
-Rezk Madeiro, Gabriel Nadim (196470) -> Usuario Github:
+Pan Suarez, Federico  (199657) -> Usuario Github: Fede1311
+Pérez Sauciuc, Jorge Ignacio (186022) -> Usuario Github: PerezIgnacio
+Rezk Madeiro, Gabriel Nadim (196470) -> Usuario Github: gabrielrezk
