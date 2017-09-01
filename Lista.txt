@@ -16,5 +16,5 @@ Gnocchi Caches, Luciano  (173811) -> Usuario Github:
 Grobert Sniadower, Fabián  (194738) -> Usuario Github:
 Nacimento Botta, Mauro Gastón (169607) -> Usuario Github:
 Pan Suarez, Federico  (199657) -> Usuario Github: Fede1311
-Pérez Sauciuc, Jorge Ignacio (186022) -> Usuario Github:
+Pérez Sauciuc, Jorge Ignacio (186022) -> Usuario Github: PerezIgnacio
 Rezk Madeiro, Gabriel Nadim (196470) -> Usuario Github: gabrielrezk
