@@ -20,7 +20,7 @@ Galperin Cassarino, Mauricio  (143191) -> Usuario Github:
 Gatica Garicoits, Joaquín  (191504) -> Usuario Github: 
 Gil Persivale, Germán  (147434) -> Usuario Github:ggiluy 
 González Lazo, Eleonora  (101873) -> Usuario Github: DAP2ELE
-Gutiérrez Erpi, Matías  (200244) -> Usuario Github: 
+Gutiérrez Erpi, Matías  (200244) -> Usuario Github: 2guti2
 Hernández García, Ramiro Andrés (199092) -> Usuario Github: ramiroandreshg
 Irisarri Chacón, Marcos  (141354) -> Usuario Github: marcosirisarri
 Machado Debia, Federico Matías (168803) -> Usuario Github: federicomachado
@@ -29,5 +29,5 @@ Pereyra Rodríguez, Gabriel Gustavo (224435) -> Usuario Github: gabos006
 Pontet Pomarico, Nicolás Sebastián (181204) -> Usuario Github: nicopontet
 Rodríguez Rosano, Lorena Salomé (146733) -> Usuario Github: 
 Ubal Golpe, Diego  (143727) -> Usuario Github: diegou7
-Vezoli Lagrotta, Bruno  (201150) -> Usuario Github: 
+Vezoli Lagrotta, Bruno  (201150) -> Usuario Github: brunvez
 Wanseele Irrazabal, Raúl Ignacio (147000) -> Usuario Github: 
