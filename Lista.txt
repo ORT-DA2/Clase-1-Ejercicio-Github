@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Visca, Ramiro (xxxxxx) -> Usuario Github: ramiroviszan
 ----------------------------------------
 
@@ -27,7 +27,7 @@ Machado Debia, Federico Matías (168803) -> Usuario Github:
 Pereira Andrioli, Juan Manuel (218301) -> Usuario Github: 
 Pereyra Rodríguez, Gabriel Gustavo (224435) -> Usuario Github: 
 Pontet Pomarico, Nicolás Sebastián (181204) -> Usuario Github: 
-Rodríguez Rosano, Lorena Salomé (146733) -> Usuario Github: 
+Rodríguez Rosano, Lorena Salomé (146733) -> Usuario Github: 146733
 Ubal Golpe, Diego  (143727) -> Usuario Github: 
 Vezoli Lagrotta, Bruno  (201150) -> Usuario Github: 
 Wanseele Irrazabal, Raúl Ignacio (147000) -> Usuario Github: 
