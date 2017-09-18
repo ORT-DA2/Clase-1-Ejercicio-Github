@@ -6,7 +6,7 @@ Bursztein Lewi, Gabriel (195581) -> Usuario Github: gabrielbursztein2
 Bzurovski Polischuk, Martín (205101) -> Usuario Github:
 Crizul Rodríguez, Matías (186651) -> Usuario Github: crizulm
 Dabezies Irla, Lucia Maria (200604) -> Usuario Github:
-Delfino Halm, Sebastián (166296) -> Usuario Github:
+Delfino Halm, Sebastián (166296) -> Usuario Github: sebadelfino11
 Espalter Pacheco, Dolores María (193682) -> Usuario Github:
 Ferreiro Perdomo, Valeria (213518) -> Usuario Github: ferreirov
 Freyre Bartol, Federica María (192482) -> Usuario Github:
@@ -15,13 +15,13 @@ Iszakovits Yavitz, Ionatan (200525) -> Usuario Github:ioniIszakovits
 Jude Engel, Guillermo Federico (201542) -> Usuario Github:
 Larralde Spuntone, Pablo Martín (162960) -> Usuario Github: plarralde1991
 López Eguren, Alejandro Carlos (191415) -> Usuario Github:
-Manini Irazoqui, Sol (192506) -> Usuario Github:
+Manini Irazoqui, Sol (192506) -> Usuario Github: smanini1
 Marchisio Napoleone, Santiago (187871) -> Usuario Github: marqui
-Morales Jaurena, Pablo Martín (177769) -> Usuario Github:
-Pollio Pollero, Francisco (192448) -> Usuario Github:
-Rossi Sosa, Santiago (189300) -> Usuario Github:
+Morales Jaurena, Pablo Martín (177769) -> Usuario Github:pabmor
+Pollio Pollero, Francisco (192448) -> Usuario Github:fpolliop
+Rossi Sosa, Santiago (189300) -> Usuario Github:SantiagoRossi
 San Nicolás Bia, Rodrigo (178160) -> Usuario Github: rodrigosannicolas
 Talento Furtado, Marcos Hernan (156985) -> Usuario Github:
-Uriarte Güimil, Sebastián (194973) -> Usuario Github:
+Uriarte Güimil, Sebastián (194973) -> Usuario Github: Sebassu
 van der Ouw Pfeiff, Mark (158660) -> Usuario Github: markvdouw
 Grunwaldt, Alejandro (179107) -> Usuario Github: palmera
