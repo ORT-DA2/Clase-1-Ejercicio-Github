@@ -17,7 +17,7 @@ Fischer Guetti, Andrés Carlos (188620) --> Usuario Github:
 Franco Rubano, Pierina Cecilia (156199) --> Usuario Github: 
 Gonsález Iriarte, María José (169059) --> Usuario Github: 
 Ithurralde Seré, Esteban Andrés (166573) --> Usuario Github: 
-Marotta Viotti, María Ema (184228) --> Usuario Github: 
+Marotta Viotti, María Ema (184228) --> Usuario Github: emamarotta
 Monfort de Leon, Richard Rafael (209015) --> Usuario Github: 
 Moreira Garcia, Santiago Javier (158226) --> Usuario Github: 
 Muse Coppa, Pablo Andrés (188463) --> Usuario Github: 
@@ -31,4 +31,4 @@ Rodríguez Ayphassorho, Alfredo Nicolás (178370) --> Usuario Github:
 Rodríguez Pais, Cono Eduardo (144425) --> Usuario Github: 
 Silva Lepre, Gonzalo Daniel (182177) --> Usuario Github: 
 Wertheim Rabsten, Matías  (193768) --> Usuario Github: MatiasWertheim
-Zilberberg Machado, Jaime Nicolás (138484) --> Usuario Github: 
+Zilberberg Machado, Jaime Nicolás (138484) --> Usuario Github: jaimezilberberg
