@@ -1,8 +1,8 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Cecilia, Leonardo (xxxxxx) -> Usuario Github: lcecilia
 ----------------------------------------
 
-Actis Acevedo, Valentín Emmanuel (214514) --> Usuario Github: 
+Actis Acevedo, Valentín Emmanuel (214514) --> Usuario Github: valentinactis
 Balbi Alves, Diego Nicolás (198685) --> Usuario Github: 
 Barbitta Martínez, Ana Lorena (169140) --> Usuario Github: 
 Burone Schaffner, Nicolás Mathías (192633) --> Usuario Github: 
