@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Cecilia, Leonardo (xxxxxx) -> Usuario Github: lcecilia
 ----------------------------------------
 
@@ -12,8 +12,8 @@ Diaz Mendiburu, Angel Eduardo (161761) --> Usuario Github:
 D´Oliveira Roca, Juan Felipe (191514) --> Usuario Github: 
 Dominguez Acerenza, Gastón Eugenio (187878) --> Usuario Github: dominguezgaston
 Enriquez Raseni, Javier  (151945) --> Usuario Github: 
-Falco Stambulis, Roxana Ximena (214157) --> Usuario Github: 
-Fischer Guetti, Andrés Carlos (188620) --> Usuario Github: 
+Falco Stambulis, Roxana Ximena (214157) --> Usuario Github: roxanafalco
+Fischer Guetti, Andrés Carlos (188620) --> Usuario Github: andresfischeruy
 Franco Rubano, Pierina Cecilia (156199) --> Usuario Github: 
 Gonsález Iriarte, María José (169059) --> Usuario Github: 
 Ithurralde Seré, Esteban Andrés (166573) --> Usuario Github: estebanithu
