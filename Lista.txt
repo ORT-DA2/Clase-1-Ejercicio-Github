@@ -1,27 +1,26 @@
-﻿---------------Ejemplo------------------
-Piffaretti, Gabriel (xxxxxx) -> Usuario Github: piffarettig
-----------------------------------------
-
-Bursztein Lewi, Gabriel (195581) -> Usuario Github: gabrielbursztein2
-Bzurovski Polischuk, Martín (205101) -> Usuario Github: martinzuro
-Crizul Rodríguez, Matías (186651) -> Usuario Github: crizulm
-Dabezies Irla, Lucia Maria (200604) -> Usuario Github:
-Delfino Halm, Sebastián (166296) -> Usuario Github: sebadelfino11
-Espalter Pacheco, Dolores María (193682) -> Usuario Github:
-Ferreiro Perdomo, Valeria (213518) -> Usuario Github: ferreirov
-Freyre Bartol, Federica María (192482) -> Usuario Github:
-Gutierrez Arbiza, Lautaro (182249) -> Usuario Github:
-Iszakovits Yavitz, Ionatan (200525) -> Usuario Github:ioniIszakovits
-Jude Engel, Guillermo Federico (201542) -> Usuario Github:
-Larralde Spuntone, Pablo Martín (162960) -> Usuario Github: plarralde1991
-López Eguren, Alejandro Carlos (191415) -> Usuario Github:
-Manini Irazoqui, Sol (192506) -> Usuario Github: smanini1
-Marchisio Napoleone, Santiago (187871) -> Usuario Github: marqui
-Morales Jaurena, Pablo Martín (177769) -> Usuario Github:pabmor
-Pollio Pollero, Francisco (192448) -> Usuario Github:fpolliop
-Rossi Sosa, Santiago (189300) -> Usuario Github:SantiagoRossi
-San Nicolás Bia, Rodrigo (178160) -> Usuario Github: rodrigosannicolas
-Talento Furtado, Marcos Hernan (156985) -> Usuario Github:
-Uriarte Güimil, Sebastián (194973) -> Usuario Github: Sebassu
-van der Ouw Pfeiff, Mark (158660) -> Usuario Github: markvdouw
-Grunwaldt, Alejandro (179107) -> Usuario Github: palmera
+﻿Alonso Gerla, Rafael José (201523) -> Usuario Github:
+Belfer Mazal, Marcelo  (146477) -> Usuario Github:
+Bergara Labraga, Agustín  (183401) -> Usuario Github:
+Betizagasti Rodríguez, Astul  (195667) -> Usuario Github:
+Blanco Djamgochian, Nicolas  (160234) -> Usuario Github:
+Caetano Rodríguez, César Agustín (151997) -> Usuario Github:
+Calo Suhr, Brahian Emmanuel (170540) -> Usuario Github:
+Camargo Recoba, María Noel (156144) -> Usuario Github:
+Castro Fernández, Rodrigo  (181983) -> Usuario Github:
+Cetraro Migliardi, Federico Andrés (193221) -> Usuario Github:
+Daghero Pérez, Gerardo Rafael (166711) -> Usuario Github:
+Damiani Gianoli, Nicolás  (192489) -> Usuario Github:
+Fabre Martinez, Mauricio  (187077) -> Usuario Github:
+González Mouriño, Mariana  (156143) -> Usuario Github:
+Grobert Sniadower, Fabián  (194738) -> Usuario Github:
+Grünwaldt Cerruti, Matías  (187636) -> Usuario Github:
+Hernández Lorenzo, Matías Sebastián (169236) -> Usuario Github:
+Klappenbach Bañales, Diego  (178226) -> Usuario Github:
+Kurin Kac, Gonzalo  (192488) -> Usuario Github:
+Moraes Nuñez, Victoria Lucía (207622) -> Usuario Github:
+Musetti Maestro, Martin  (187094) -> Usuario Github:
+Núñez González, Mathías Alejandro (190015) -> Usuario Github:
+Pirotto Sacchi, Rafael Ricardo (199390) -> Usuario Github:
+Rodríguez Reche, Alejandro  (223303) -> Usuario Github:
+Rodríguez Yañez, Federico Mario (151563) -> Usuario Github:
+Santellanes Parrella, Darío Sebastián (204582) -> Usuario Github:
