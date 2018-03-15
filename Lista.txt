@@ -10,7 +10,7 @@ Bentos Gómez, Andrés Sebastián (149571) -> Usuario Github:
 Caram De Luca, Ramiro (172466) -> Usuario Github:
 Cardozo Guedes, Igor (203144) -> Usuario Github:
 Castro Acosta, Germán (187553) -> Usuario Github:
-Castro García, Facundo Valentín (195485) -> Usuario Github:
+Castro García, Facundo Valentín (195485) -> Usuario Github: fcastro07
 Correa Garbuyo, Andres Ignacio (176076) -> Usuario Github:
 Couste Prato, Juan Pedro (193427) -> Usuario Github:
 de Pro Pancini, Agustina (202112) -> Usuario Github:
@@ -18,7 +18,7 @@ Delfino Halm, Sebastián (166296) -> Usuario Github:
 Della Cella Mac Cormack, Andres Mario (193949) -> Usuario Github:
 Girardi D'Avila, Francisco Genaro (199394) -> Usuario Github:
 Lauz Infantozzi, Diego (201024) -> Usuario Github:
-Lezuez Bianchi, Rodrigo (204692) -> Usuario Github:
+Lezuez Bianchi, Rodrigo (204692) -> Usuario Github: rlezuez
 Muzio López, Esteban Leonel (92391) -> Usuario Github:
 Núñez González, Mathías Alejandro (190015) -> Usuario Github:
 Pan Suarez, Federico (199657) -> Usuario Github:
