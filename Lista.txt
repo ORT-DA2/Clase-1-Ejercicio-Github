@@ -12,7 +12,7 @@ Cardozo Guedes, Igor (203144) -> Usuario Github:
 Castro Acosta, Germán (187553) -> Usuario Github:
 Castro García, Facundo Valentín (195485) -> Usuario Github:
 Correa Garbuyo, Andres Ignacio (176076) -> Usuario Github:
-Couste Prato, Juan Pedro (193427) -> Usuario Github:
+Couste Prato, Juan Pedro (193427) -> Usuario Github: JuanCouste
 de Pro Pancini, Agustina (202112) -> Usuario Github:
 Delfino Halm, Sebastián (166296) -> Usuario Github:
 Della Cella Mac Cormack, Andres Mario (193949) -> Usuario Github:
@@ -21,7 +21,7 @@ Lauz Infantozzi, Diego (201024) -> Usuario Github:
 Lezuez Bianchi, Rodrigo (204692) -> Usuario Github:
 Muzio López, Esteban Leonel (92391) -> Usuario Github:
 Núñez González, Mathías Alejandro (190015) -> Usuario Github:mnunez13
-Pan Suarez, Federico (199657) -> Usuario Github:
+Pan Suarez, Federico (199657) -> Usuario Github: Fede1311
 Pastorino Barbero, Mauricio Sebastián (187271) -> Usuario Github:
 Pereira Cano, Ismael (147824) -> Usuario Github: ipereirac
 Piñatares Méndez, Héctor Fabián (167119) -> Usuario Github:
