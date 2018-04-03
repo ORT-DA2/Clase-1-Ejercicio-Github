@@ -1,20 +1,16 @@
 ﻿---------------Ejemplo------------------
-Piffaretti Que Grande, Gabriel (xxxxxx) -> Usuario Github: piffarettig
+Piffaretti Gabriel (xxxxxx) -> Usuario Github: piffarettig
 ----------------------------------------
 
-<<<<<<< HEAD
 Canessa, Andres(178062) -> Usuario Github: andrescanessa
-=======
 Alejandro Capece (144183) -> Usuario Github: acapece
 Benitez, Pablo (179924) -> Usuario Github: centerax
->>>>>>> 5101fa701139df2703c13cd0ff777d7637a5c92e
 Matias Wertheim (193768) -> Usuario Github: MatiasWertheim
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
-<<<<<<< HEAD
-=======
+Fernandez, Carolina (177497) -> Usuario Github: carofermendez
 Talento, Marcos (156985) -> Usuario Github: mahetafu
 () -> Usuario Github:
 Delfino, Renzo (196738) -> Usuario Github: R-Delfino
@@ -23,9 +19,12 @@ Hernández, Matias (169236) -> Usuario Github: matiashrnndz
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
+Moraes, Victoria(207622) -> Usuario Github: moraesvito
+Pirotto, Rafael(199390) -> Usuario Github: rafapirotto
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
+San Nicolás, Rodrigo(178160) -> Usuario Github: rodrigosannicolas
 () -> Usuario Github:
 Daghero, Gerardo (166711) -> Usuario Github: gdaghero
 () -> Usuario Github:
@@ -37,7 +36,6 @@ Diego Balbi (198685) -> Usuario Github: diebalbi
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
->>>>>>> 5101fa701139df2703c13cd0ff777d7637a5c92e
 () -> Usuario Github:
 () -> Usuario Github:
 () -> Usuario Github:
