@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -14,7 +14,7 @@ Fraque Bueri, Danilo (201671) ->
 Gallo García, Agustina (200108) ->
 Gallo García, Micaela (200104) ->
 Iriart Córdoba, Mónica Beatriz (76637) ->
-Komes Polletta, Daniel Guillermo (225841) ->
+Komes Polletta, Daniel Guillermo (225841) -> danielkomes
 Luraschi Barros, Juan Ignacio (194345) ->
 Magliano Pereira, Nicolas (201435) ->
 Mallo Aramburu, Guillermo (212915) ->
