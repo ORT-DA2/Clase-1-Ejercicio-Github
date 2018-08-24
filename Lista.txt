@@ -1,7 +1,8 @@
 ﻿---------------Ejemplo------------------
 Visca, Ramiro (xxxxxx) -> Usuario Github: ramiroviszan
--------------------------------------
+----------------------------------------
 
+Esteban Montes de Oca(174133) -> Usuario Github:estebanMontesDeOca
 Camila Pera (166748) -> Usuario Github: camipera
 Martín Comesaña (183579) -> Usuario Github: martincomesania
 (Andres Torrado) -> Usuario Github: AndresTorrado
