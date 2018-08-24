@@ -11,7 +11,7 @@ La idea es poder trabajar sobre un repositorio remoto, a modo de puesta en prác
 2) Si se trabaja desde ORT: ```git config --global http.proxy http://proxycen.ort.edu.uy:80```.  
 3) Clonar el repositorio en su máquina y luego hacer **checkout** de la **RAMA CORRESPONDIENTE A TU GRUPO**. 
 4) En el archivo ```Lista.txt``` , buscar su nombre y escribir su usuario de github a continuación del mismo.  
-5) Hacer ***add***, ***commit** y ***push*** con sus cambios al repositorio propio.  
+5) Hacer ***add***, ***commit*** y ***push*** con sus cambios al repositorio propio.  
 6) Hacer un ***pull request*** al repositorio original.
 
 **MATERIAL DE INTERÉS:** 
