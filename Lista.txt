@@ -1,4 +1,4 @@
-﻿---------------Ejemplo------------------
+---------------Ejemplo------------------
 Piffaretti Gabriel (xxxxxx) -> Usuario Github: piffarettig
 ----------------------------------------
 
@@ -12,7 +12,7 @@ Piffaretti Gabriel (xxxxxx) -> Usuario Github: piffarettig
 (151945) -> Usuario Github:
 (214157) -> Usuario Github:
 (177497) -> Usuario Github:
-(188620) -> Usuario Github:
+(188620) -> Usuario Github:andresfischeruy
 (162255) -> Usuario Github:
 (181592) -> Usuario Github:
 (200569) -> Usuario Github:
