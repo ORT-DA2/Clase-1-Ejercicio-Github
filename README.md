@@ -1,5 +1,5 @@
 # Ejercicio GitHub
-Ejercicio simple de GitHub para los grupos de Agosto de 2017: **M6A,M6B y N6A**.
+Ejercicio simple de GitHub.
 
 La idea es poder trabajar sobre un repositorio remoto, a modo de puesta en práctica de los conceptos de Git repasados en clase. Por cada dictado, se presenta una rama, donde cada rama posee un archivo simple (*.txt*) que posee el listado de estudiantes. Como ejercicio se les solicita que escriban su nombre de usuario de Github en el *.txt* y en la línea del mismo que les correspondan. **Realizar este ejercicio es MUY Importante** ya que los docentes necesitan tener el nombre de usuario de Github de cada alumno para poder agregarlo a la organización. 
 
@@ -17,3 +17,7 @@ Además, es necesario utilizar un usuario de GitHub, por lo que se debe crear un
 4) En el archivo ```Lista.txt``` , buscar su nombre y escribir su usuario de github a continuación del mismo. Si no encuentran su nombre seguramente clonaron la rama de otro grupo. 
 5) Hacer ***push*** con sus cambios al repositorio propio.  
 6) Hacer un ***pull request*** al repositorio original.
+
+**MATERIAL DE INTERÉS:** 
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
