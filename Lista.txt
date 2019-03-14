@@ -1,10 +1,10 @@
-============= EJEMPLO =============
+﻿============= EJEMPLO =============
 xxxxxx - Visca, Ramiro - ramiroviszan - [opcional = ramiroviszan@gmail.com]
 ===================================
 
 220556 - Abraham  Nuñez,  Mathias - 
 216242 - Aguiar  Fereira,  Jesús  Gerardo - 
-219029 - Armendariz  Umpierrez,  José  Gabrie - 
+219029 - Armendariz  Umpierrez,  José  Gabriel - GabrielArmendariz
 212995 - Baccino  Cabot,  Diego  Gabriel  - 
 217730 - Banchero  Banchero,  Federic - 
 222313 - Bermúdez  Alman,  Alejandro  - 
