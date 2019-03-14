@@ -1,4 +1,4 @@
-============= EJEMPLO =============
+﻿============= EJEMPLO =============
 xxxxxx - Visca, Ramiro - ramiroviszan - [opcional = ramiroviszan@gmail.com]
 ===================================
 
@@ -9,7 +9,7 @@ xxxxxx - Visca, Ramiro - ramiroviszan - [opcional = ramiroviszan@gmail.com]
 217730 - Banchero  Banchero,  Federic - 
 222313 - Bermúdez  Alman,  Alejandro  - 
 210198 - Del Campo  Danrée,  Joaquín  - 
-217632 - D'Uva  Pezzente,  Martín - 
+217632 - D'Uva  Pezzente,  Martín - martinduva
 223000 - Hughes  Rodríguez,  Leopoldo  Alejandro  - 
 221500 - Kimelman  Bercovici,  Gabrie - 
 221842 - Llavayol  Guerra,  Valentina  Nicole - 
