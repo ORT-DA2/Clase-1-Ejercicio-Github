@@ -24,7 +24,7 @@ xxxxxx - Visca, Ramiro - ramiroviszan - [opcional = ramiroviszan@gmail.com]
 217428 - Pirez  Mascheroni,  Facundo  - 
 220346 - Prando  Martínez,  Joaquín   - 
 200427 - Rezk  Bello,  María  Belén   - 
-193767 - Rezniotopoulos  González,  Christian - 
+193767 - Rezniotopoulos  González,  Christian - ChrisReznio
 193764 - Rezniotopoulos  González,  Jade  - 
 200893 - Santinelli  Rodríguez,  Fausto   - 
 222144 - Sidagis  Delbueno,  Evgeny  Takashi  - 
