@@ -1,10 +1,10 @@
-﻿============= EJEMPLO =============
+============= EJEMPLO =============
 xxxxxx - Visca, Ramiro - ramiroviszan - [opcional = ramiroviszan@gmail.com]
 ===================================
 
 220556 - Abraham  Nuñez,  Mathias - 
 216242 - Aguiar  Fereira,  Jesús  Gerardo - 
-219029 - Armendariz  Umpierrez,  José  Gabrie - 
+219029 - Armendariz  Umpierrez,  José  Gabriel - GabrielArmendariz
 212995 - Baccino  Cabot,  Diego  Gabriel  - 
 217730 - Banchero  Banchero,  Federic - 
 222313 - Bermúdez  Alman,  Alejandro  - 
@@ -12,14 +12,14 @@ xxxxxx - Visca, Ramiro - ramiroviszan - [opcional = ramiroviszan@gmail.com]
 217632 - D'Uva  Pezzente,  Martín - martinduva
 223000 - Hughes  Rodríguez,  Leopoldo  Alejandro  - 
 221500 - Kimelman  Bercovici,  Gabrie - 
-221842 - Llavayol  Guerra,  Valentina  Nicole - 
+221842 - Llavayol  Guerra,  Valentina  Nicole - valentinallavayol
 218188 - Méndez  Cabrera,  Joaquín  Nicolás   - 
 217631 - Miguez  Llorente,  Mauricio  - 
 220070 - Misa  Reyes,  Francisco  Jos - 
 214105 - Monjardín  López,  Alan  Gastón  - 
-223375 - Morales  Peluffo,  Matias  Gabriel   - 
+223375 - Morales  Peluffo,  Matias  Gabriel   - MatiasMorales - matiasmoralespeluffo@gmail.com
 193737 - Mosquera  Carreras,  Florencia  Paul - 
-201375 - Pence  Ceriani,  Noela   - 
+201375 - Pence  Ceriani,  Noela   - noelapence - noepence@hotmail.com
 214108 - Pintos  Sugliano,  Bruno  Eduard - 
 217428 - Pirez  Mascheroni,  Facundo  - 
 220346 - Prando  Martínez,  Joaquín   - 
