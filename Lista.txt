@@ -1,14 +1,32 @@
 ---------------Ejemplo------------------
 Cohen, Marcel (xxxxxx) -> Usuario Github: mcohen97
 ----------------------------------------
-
-() -> Usuario Github:
-() -> Usuario Github:
-() -> Usuario Github:
-() -> Usuario Github:
-() -> Usuario Github:
-() -> Usuario Github:
-() -> Usuario Github:
-() -> Usuario Github:
-() -> Usuario Github:
-() -> Usuario Github:
+Amado Landoni, José Pedro (188885) -> Usuario Github:
+Areco Puig, Romina Noelia (206874) -> Usuario Github:
+Arleo Uturbey, Tamara (152930) -> Usuario Github:
+Barrabino Iriarte, Julieta (229560) -> Usuario Github:	
+Bellón Chiarelli, Tatiana Natasha (232624) -> Usuario Github:	
+Brascesco Dalto, Matías Nicolás (149682) -> Usuario Github:
+Calleros Píriz, Rodrigo Hernán (232814) -> Usuario Github:
+Carballo , Diego Horacio (141089) -> Usuario Github:
+Castro Portela, Lucas Federico (218709)	-> Usuario Github:
+Cawen Barloco, Rubén Daniel (226172) -> Usuario Github:
+de Souza Silva, Carlos Renato (216425) -> Usuario Github:
+Deus Mercader, Andrés Antonio (210170) -> Usuario Github:
+Eyherachar Bindritsch, Agustín (182629) -> Usuario Github:
+Franco Rubano, Pierina Cecilia (156199) -> Usuario Github:
+González Caballero, Juan Sebastian (208938) -> Usuario Github:
+López Vaccaro, Francisco (209003) -> Usuario Github:
+Marroche Elzaurdia, Francisco (177749) -> Usuario Github:
+Musso Taboada, Antonella (217916) -> Usuario Github:
+Pais Carrau, Nicolás Carlos (160846) -> Usuario Github:
+Prieto Maffla, Agustín Iñaki (174688) -> Usuario Github:
+Salvia Delgado, Christian Adrián (175021) -> Usuario Github:
+Sorriba Trabal, Martín Horacio (225209)	-> Usuario Github:
+Sosa Mercadal, José Miguel (145939) -> Usuario Github:
+Taeger López, Camila Magalí (234087) -> Usuario Github:
+Taruselli Mattío, Agustín (143113) -> Usuario Github:
+Tourn González, Luciano Agustín (200976) -> Usuario Github:
+Wagner Fort, Federico Miguel (97037) -> Usuario Github:
+Wagner Lemos, Gonzalo Esteban (187413) -> Usuario Github:
+Zilberberg Machado, Jaime Nicolás (138484) -> Usuario Github:
