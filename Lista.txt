@@ -1,6 +1,6 @@
 ---------------Ejemplo------------------
 Balduccio, Bruno(nroLista) -> Usuario Github: brubaldu
+Andrade, Andres (239313) -> Usuario Github: andresandrade12345
 ----------------------------------------
-
 Konopka, German(238880) -> Usuario Github: germankv
-
+Areosa, Guillermo(210030) -> Usuario Github: areosaguillermo
