@@ -3,30 +3,31 @@ Ganón, Martin (xxxxxx) -> Usuario Github: mganon98
 ----------------------------------------
 
 Banchero Bermúdez, Pilar (231587) -> Usuario Github:
-Brenner Stainfeld, Noa (231045) -> Usuario Github:
 Cabanillas , Francisco Esteban (231918) -> Usuario Github: Franca017
-Cecilia Román, Joselen (233552) -> Usuario Github:
+Brenner Stainfeld, Noa (231045) -> Usuario Github:noitabrenner
+Cecilia Román, Joselen (233552) -> Usuario Github: JoselenC
 Charbonnier Weyrauch, Federico Enzy (231401) -> Usuario Github:
 Di Marco Luketich, Chiara (186017) -> Usuario Github:
 Felder Polak, Micaela (212322) -> Usuario Github:
-Freyer Acea, Joaquín (233786) -> Usuario Github:
+Freyer Acea, Joaquín (233786) -> Usuario Github:joacofreyer
 Gioia Albertini, Mateo (238327) -> Usuario Github:
-Hernández Kurdian, Paula Adrine (201886) -> Usuario Github:
+Hernández Kurdian, Paula Adrine (201886) -> Usuario Github: paulahk99
 Hirigoyen González, Rodrigo (197396) -> Usuario Github:
 Hsieh Lu, Chia Hung (196306) -> Usuario Github:
-Irazabal Levy, Alfonso (201864) -> Usuario Github:
+Irazabal Levy, Alfonso (201864) -> Usuario Github: alfoirazabal
 Mendiola García, Sol (235543) -> Usuario Github:
 Novelli Harispe, Marcos Alejandro (201663) -> Usuario Github:
-Pérez Rodríguez, Bruno Federico (226735) -> Usuario Github:
+Pérez Rodríguez, Bruno Federico (226735) -> Usuario Github: Bruno1599
 Poladura Pignata, Fernando Guillermo (237268)-> Usuario Github:
-Ramos Perandones, Nicolás (244339) -> Usuario Github:
-Rodríguez Espino, Andrés Fernando (225091) -> Usuario Github:
-Rostán Cassina, Valentina (194793) -> Usuario Github:
+Rodríguez Espino, Andrés Fernando (225091) -> Usuario Github: Andres451
+Ramos Perandones, Nicolás (244339) -> Usuario Github: nicolas-ramos976
+Poladura Pignata, Fernando Guillermo (237268)-> Usuario Github: williamolsen13
+Rostán Cassina, Valentina (194793) -> Usuario Github:Valerostan
 Sanguinetti Fascioli, Jimena María (228322) -> Usuario Github:
 Suarez Aliano, Maycol Alexis (240164) -> Usuario Github:
-Teixeira Gelezauskas, Mauro (211753) -> Usuario Github:
+Teixeira Gelezauskas, Mauro (211753) -> Usuario Github: mauroteix
 Tomás Vidart, Juan Manuel (232063) -> Usuario Github:
-Torres Bertolotti, Federico (231465) -> Usuario Github:
+Torres Bertolotti, Federico (231465) -> Usuario Github: fedetorresb
 Vallarino Cibils, Ignacio (203645) -> Usuario Github:
 Vila Álvarez, Sara Astenkep (163497) -> Usuario Github:
 Wilner Merla, Matías (231073) -> Usuario Github:
