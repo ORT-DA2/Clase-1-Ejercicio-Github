@@ -3,24 +3,25 @@ Ganón, Martin (xxxxxx) -> Usuario Github: mganon98
 ----------------------------------------
 
 Banchero Bermúdez, Pilar (231587) -> Usuario Github:
-Brenner Stainfeld, Noa (231045) -> Usuario Github:
+Brenner Stainfeld, Noa (231045) -> Usuario Github:noitabrenner
 Cabanillas , Francisco Esteban (231918) -> Usuario Github:
 Cecilia Román, Joselen (233552) -> Usuario Github:
 Charbonnier Weyrauch, Federico Enzy (231401) -> Usuario Github:
 Di Marco Luketich, Chiara (186017) -> Usuario Github:
 Felder Polak, Micaela (212322) -> Usuario Github:
-Freyer Acea, Joaquín (233786) -> Usuario Github:
+Freyer Acea, Joaquín (233786) -> Usuario Github:joacofreyer
 Gioia Albertini, Mateo (238327) -> Usuario Github:
 Hernández Kurdian, Paula Adrine (201886) -> Usuario Github:
 Hirigoyen González, Rodrigo (197396) -> Usuario Github:
 Hsieh Lu, Chia Hung (196306) -> Usuario Github:
-Irazabal Levy, Alfonso (201864) -> Usuario Github:
+Irazabal Levy, Alfonso (201864) -> Usuario Github: alfoirazabal
 Mendiola García, Sol (235543) -> Usuario Github:
 Novelli Harispe, Marcos Alejandro (201663) -> Usuario Github:
 Pérez Rodríguez, Bruno Federico (226735) -> Usuario Github:
 Poladura Pignata, Fernando Guillermo (237268)-> Usuario Github:
-Ramos Perandones, Nicolás (244339) -> Usuario Github:
 Rodríguez Espino, Andrés Fernando (225091) -> Usuario Github: Andres451
+Ramos Perandones, Nicolás (244339) -> Usuario Github: nicolas-ramos976
+Poladura Pignata, Fernando Guillermo (237268)-> Usuario Github: williamolsen13
 Rostán Cassina, Valentina (194793) -> Usuario Github:
 Sanguinetti Fascioli, Jimena María (228322) -> Usuario Github:
 Suarez Aliano, Maycol Alexis (240164) -> Usuario Github:
