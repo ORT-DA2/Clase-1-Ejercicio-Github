@@ -40,10 +40,15 @@ Rossi, Francisco (219401) -> FranRossi
 
 ---
 
+Mendez, Sofia (230895) -> Usuario de GitHub: SofiaMendez
+
+---
+
 Yáñez, Hernán (242618) -> Usuario de GitHub: hyanezs
 
 ---
 
 Cagnoli, Francisco (238266) -> Usuario de GitHub: FranCagnoli
+
 
 
