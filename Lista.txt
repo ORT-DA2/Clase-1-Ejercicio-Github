@@ -49,6 +49,10 @@ Rossi, Francisco (219401) -> FranRossi
 ---
 
 
+Varela, Sebastian (240248) -> Usuario de GitHub: SebastianVar
+
+---
+
 Mendez, Sofia (230895) -> Usuario de GitHub: SofiaMendez
 
 ---
@@ -62,3 +66,4 @@ Cagnoli, Francisco (238266) -> Usuario de GitHub: FranCagnoli
 ---
 
 Disiot, Agustina (221025) -> Usuario de GitHub: agustinadisiot
+
