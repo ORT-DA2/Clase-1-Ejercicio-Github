@@ -1,6 +1,7 @@
 EJEMPLO:
 
 Joaquin Mendez (218188) -> Usuario de GitHub: JoaquinMendez
+Pablo Torres (257145) -> Usuario de GitHub: PolTowers
 Juan Abeleria(238826) -> Usuario de GitHub: Jmabeleira
 Gonzalo Lourerio (243218) -> Usuario de GitHub: GonzaloLoureiro
 Joaquin Añón (243181) -> Usuario de Github: joaquin2709
